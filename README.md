@@ -1,3 +1,6 @@
+解决在小米全面屏手机上，键盘高度计算错误的问题。
+
+
 # cordova-plugin-ionic-keyboard
 
 This plugin has been designed to work seamlessly with `cordova-plugin-ionic-webview`, so make sure you have it installed first:
